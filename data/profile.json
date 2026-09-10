@@ -1,0 +1,89 @@
+{
+  "site": {
+    "title": "Faizur Rehman",
+    "year": "2026"
+  },
+  "nav": {
+    "firstName": "Faizur",
+    "lastName": "Rehman",
+    "github": "",
+    "linkedin": ""
+  },
+  "hero": {
+    "greeting": "Hi, I am",
+    "name": "Faizur Rehman",
+    "roles": ["Web Developer", "Cloud Infrastructure Enthusiast", "Software Engineer"],
+    "bio": "I'm a Software Engineering student at the intersection of web development and cloud infrastructure — building applications that don't just work, but stay up. I don't just write front-end code. I deploy it, secure it, and automate how it ships, from Nginx configs to CI/CD pipelines on AWS. Fresh graduate mindset, production-minded habits.",
+    "photo": "/images/profile.jpg",
+    "cvFile": "/files/Faizur_Rehman_CV.docx"
+  },
+  "about": {
+    "paragraphs": [
+      "I'm a Software Engineering undergraduate at <strong>Bahria University, Karachi</strong>, currently in my third year (2023–2027). My coursework spans data mining, software quality engineering, cloud computing, agile development, HCI and operating systems.",
+      "I started with front-end fundamentals — HTML, CSS, JavaScript, Bootstrap — during a training program at Aptech, then moved into databases and desktop apps with C# and .NET. Since then I've pushed further into infrastructure: deploying real applications on AWS, configuring Nginx from scratch, and automating deployments with CI/CD.",
+      "I care about software that's practical and sellable, not just an assignment. Outside of code, I do photography and enjoy the outdoors."
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["HTML5", "CSS3", "JavaScript", "Bootstrap"]
+    },
+    {
+      "category": "Cloud & Infra",
+      "items": ["AWS EC2", "AWS S3", "IAM", "Security Groups", "Nginx", "Linux (Ubuntu)"]
+    },
+    {
+      "category": "Backend & DB",
+      "items": ["C#", ".NET", "MySQL"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Git", "GitHub", "GitHub Actions", "Figma", "VS Code"]
+    }
+  ],
+  "experience": [
+    {
+      "logoText": "AC",
+      "title": "Web Development Trainee",
+      "org": "Aptech Computer Education, Karachi",
+      "date": "2022",
+      "description": "Completed an intensive full-stack web development training program — from responsive front ends to relational databases and desktop applications.",
+      "tags": ["HTML5", "CSS3", "JavaScript", "Bootstrap", "MySQL", "C# / .NET"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AWS & Nginx Web Infrastructure",
+      "subtitle": "Scalable web infrastructure deployment on AWS EC2 & S3",
+      "description": "Deployed and configured a production-style Nginx web server on AWS EC2, with S3 for static asset hosting, IAM/Security Groups for least-privilege access, and a GitHub Actions CI/CD pipeline that auto-deploys on every push.",
+      "tags": ["AWS EC2", "S3", "IAM", "Nginx", "Ubuntu", "GitHub Actions"],
+      "accent": "violet",
+      "links": { "github": "", "live": "" }
+    }
+  ],
+  "education": [
+    {
+      "logoText": "BU",
+      "title": "Bachelor of Software Engineering",
+      "org": "Bahria University, Karachi",
+      "date": "2023 — 2027",
+      "grade": "",
+      "description": "Currently pursuing a BSE with coursework in data mining, software quality engineering, cloud computing, agile development, HCI and operating systems."
+    },
+    {
+      "logoText": "BC",
+      "title": "Intermediate (Pre-Engineering)",
+      "org": "Bahria College Majeed",
+      "date": "2022",
+      "grade": "",
+      "description": ""
+    }
+  ],
+  "contact": {
+    "email": "faiz018338@gmail.com",
+    "phone": "0311-3239681",
+    "phoneHref": "+923113239681",
+    "location": "Gulshan-e-Jamal, Karachi, Pakistan"
+  }
+}
